@@ -24,7 +24,9 @@ To get started with the course, clone the repository to your local machine:
 ```bash
 git clone https://github.com/souravbasakshuvo/Python-3-Programming-Specialization.git
 ```
+
 Then, navigate to the project directory and explore the individual course folders for assignments and projects.
+
 ---
 
 ### 📦 **Requirements**
